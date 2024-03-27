@@ -34,7 +34,7 @@
     "waHost": "",
     "license": "GNU",
     "dependencies": {
-        "@adiwajshing/baileys": "^4.4.0",
+        "@adiwajshing/baileys": "github:BrunoSobrino/baileys",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^3.0.0",
         "awesome-phonenumber": "^2.68.0",
@@ -50,7 +50,7 @@
         "human-readable": "^0.2.1",
         "jimp": "^0.16.1",
         "jsdom": "^19.0.0",
-        "link-preview-js": "^2.1.13",
+        "link-preview-js": "^3.0.0",
         "lodash": "^4.17.21",
         "lowdb": "^3.0.0",
         "mongoose": "^6.3.3",
