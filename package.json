@@ -1,7 +1,7 @@
 {
     "name": "NeKoTinaBot-MD",
     "version": "1.0.5",
-    "description": "WhatsApp bot NK versi¨®n Multidevice espero te guste :3",
+    "description": "WhatsApp bot NK versiÂ¨Â®n Multidevice espero te guste :3",
     "main": "nkbot.js",
     "type": "module",
     "directories": {
@@ -34,7 +34,7 @@
     "waHost": "",
     "license": "GNU",
     "dependencies": {
-        "@adiwajshing/baileys": "^4.4.0",
+        "@adiwajshing/baileys": "npm:baileys@latest",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^3.0.0",
         "awesome-phonenumber": "^2.68.0",
