@@ -1,9 +1,9 @@
-<h1 align="center">💟 NeKoTinaBot-MD 💖</h1>
+<h1 align="center">🌟 SUMI WHATSAPP BOT 🌟</h1>
 <br>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Simple+WhatsApp+Bot+Multidevice+nwn;Gracias+por+usar+este+bot+my+king+%3A3;%5B+How+sexy+are+you+7w7r+%5D_)](https://git.io/typing-svg)
-<img src="https://c.tenor.com/D2H0hPltOdYAAAAM/golden-boy-fake-keyboard-programing-coding-paper-book.gif" width="400" height="230"/>
+<img src="https://c.tenor.com/v3FjETy7mAcAAAAC/sumi-sumi-sakurasawa.gif" width="400" height="230"/>
 </div>
 <br>
 <p align="center">
@@ -21,14 +21,9 @@
 | Crea stickers|✔️|
 | Bienvenida automática|✔️|
 | Anti-Link|✔️|
-| Anti-Fakes|✔️|
 | Jadibot-vBeta|✔️|
-| Anti-Estranjeros|✔️|
-| Anti-Spam(Command flood)|✔️|
-| Anti-Llamadas|✔️|
-| Anti-Privados|✔️|
 | Modo Publico/Privado|✔️|
-| Herramientas de edición|✔️|
+| Herramientas de configuración|✔️|
 | Creador de logos|✔️|
 | Anime|✔️|
 | Juegos|✔️|
@@ -40,7 +35,7 @@
 | Más funciones en adelante|♻️|
 
 # Se les recomienda instalar uno de estos WhatsApps:
-[![WHATSAP](https://img.shields.io/badge/-WHATSAPP-green?colorA=%23fa0000&colorB=%23017e40&style=for-the-badge)](https://fgmods.xyz/fgwa),[![WHATSAP](https://img.shields.io/badge/-WHATSAPP%20BUSINESS-green?colorA=%23fa0000&colorB=%23017e40&style=for-the-badge)](https://fgmods.xyz/wa-business)
+[![WHATSAP](https://img.shields.io/badge/-WHATSAPP-green?colorA=%23fa0000&colorB=%23017e40&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.whatsapp),[![WHATSAP](https://img.shields.io/badge/-WHATSAPP%20BUSINESS-green?colorA=%23fa0000&colorB=%23017e40&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)
 
 # 🪀 Instalación en varias plataformas...
 
@@ -62,8 +57,8 @@ Para nuevos desde cero en termux.apk:
 ```
 ## Despues de tener todos los packs instalados en termux solo usen estos comandos para comenzar
 ```bash
-> git clone https://github.com/Yesenia57/NeKoTinaBot-MD 
-> cd NeKoTinaBot-MD 
+> git clone https://github.com/Yesenia57/SumiWaBot-MD 
+> cd SumiWaBot-MD 
 > yarn
 > npm start
 
@@ -72,22 +67,25 @@ Para detener al bot en termux:
 ```
 
 # 🔥 Ejecutar el bot 24/7 
-- Es aconsejable que crees una carpeta llamada "./sesiones/", luego subas el archivo de "creds.json" ya activado, para ya no tener que escanear otro código QR x'd
+- Es aconsejable que crees una carpeta llamada "./sesiones/", luego subas el archivo de "creds.json" ya activado, para ya no tener que escanear otro código QR x'd o volver a poner el código de 8 digitos.
+
+### 💥 En Boxmine World
+[![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsQHOuw4H5zpmqpQkL7K2VLojpSi468cEpEg&usqp=CAU](https://img.shields.io/badge/-mineworld-blue?colorA=%230000fa&colorB=%230000fa&style=for-the-badge)](https://www.boxmineworld.com)
 
 ### 💥 En Railway
-[![Run on Railway](https://img.shields.io/badge/-Run%20Railway-green?colorA=%23fa0000&colorB=%23017e40&style=for-the-badge)](https://railway.app/new/template?template=https://github.com/Yesenia57/NeKoTinaBot-MD/)
+[![Run on Railway](https://img.shields.io/badge/-Run%20Railway-green?colorA=%23fa0000&colorB=%23017e40&style=for-the-badge)](https://railway.app/new/template?template=https://github.com/Yesenia57/SumiWaBot-MD/)
 
 ### 💥 En Replit
-[![Run on Repl.it](https://replit.com/badge/github/Yesenia57/NeKoTinaBot-MD)](https://repl.it/github/Yesenia57/NeKoTinaBot-MD)
+[![Run on Repl.it](https://replit.com/badge/github/Yesenia57/SumiWaBot-MD)](https://repl.it/github/Yesenia57/SumiWaBot-MD)
 
 ### 💥 En Heroku
-[![Deploy to heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yesenia57/NeKoTinaBot-MD/)
+[![Deploy to heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yesenia57/SumiWaBot-MD/)
 
 ### 💥 En Render
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/Yesenia57/NeKoTinaBot-MD/)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/Yesenia57/SumiWaBot-MD/)
 
 ### 💥 En Koyeb
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Yesenia57/NeKoTinaBot-MD&branch=master&name=nekotinabot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Yesenia57/SumiWaBot-MD&branch=master&name=nekotinabot)
 
 # ⚡ Necesitas ayuda?, Aquí tienes mi WhatsApp :3
 
