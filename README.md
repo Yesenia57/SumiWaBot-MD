@@ -70,8 +70,8 @@ Para detener al bot en termux:
 - Es aconsejable que crees una carpeta llamada "./sesiones/", luego subas el archivo de "creds.json" ya activado, para ya no tener que escanear otro código QR x'd o volver a poner el código de 8 digitos.
 
 ### 💥 En Boxmine World
-[![Boxmineworld](https://img.shields.io/badge/-mineworld-blue?colorA=%230000fa&colorB=%230000fa&style=for-the-badge)](https://www.boxmineworld.com), src="https://i.imgur.com/allAyd4.png" height="29px"></a>
-
+[![Boxmineworld](https://img.shields.io/badge/-boxmineworld-blue?colorA=%230000fa&colorB=%230000fa&style=for-the-badge)](https://www.boxmineworld.com)
+<a href="https://boxmineworld.com"><img src="https://i.imgur.com/allAyd4.png" height="29px"></a>
 ### 💥 En Railway
 [![Run on Railway](https://img.shields.io/badge/-Run%20Railway-green?colorA=%23fa0000&colorB=%23017e40&style=for-the-badge)](https://railway.app/new/template?template=https://github.com/Yesenia57/SumiWaBot-MD/)
 
