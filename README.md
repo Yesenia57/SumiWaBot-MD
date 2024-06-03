@@ -35,7 +35,7 @@
 | Más funciones en adelante|♻️|
 
 # Se les recomienda instalar uno de estos WhatsApps:
-[![WHATSAP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://play.google.com/store/apps/details?id=com.whatsapp)-[![WHATSAP](https://img.shields.io/badge/WhatsApp_Bussines-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)
+[![WHATSAP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://play.google.com/store/apps/details?id=com.whatsapp) [![WHATSAP](https://img.shields.io/badge/WhatsApp_Bussines-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)
 
 # 🪀 Instalación en varias plataformas...
 
