@@ -48,10 +48,10 @@ global.fglog = 'https://i.ibb.co/1zdz2j3/logo.jpgs'
 
 //--- Grupos WA
 global.id_canal = 'undefined@newsletter' //-ID de canal de WhatsApp
-global.fgcanal = 'https://whatsapp.com/channel/'
-global.bgp = 'https://chat.whatsapp.com/'
-global.bgp2 = 'https://chat.whatsapp.com/'
-global.bgp3 = 'https://chat.whatsapp.com/' //--GP NSFW
+global.fgcanal = 'https://whatsapp.com/channel/0029VagSrLa6LwHm5ga8d22K'
+global.bgp = 'https://chat.whatsapp.com/FQGIH0GG6XuK6MR3t42SQT'
+global.bgp2 = 'https://chat.whatsapp.com/GxPCtnVjZoD1djroBEgYSH'
+global.bgp3 = 'https://chat.whatsapp.com/DrMBArT4DLn0VHXaKSoVWm' //--GP NSFW
 
 global.wait = 'Loading .  .  .'
 global.rwait = '🕐'
