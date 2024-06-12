@@ -70,7 +70,7 @@ Para detener al bot en termux:
 - Es aconsejable que crees una carpeta llamada "./sesiones/", luego subas el archivo de "creds.json" ya activado, para ya no tener que escanear otro código QR x'd o volver a poner el código de 8 digitos.
 
 ### 💥 EN INFINITY-HOST
-[![blog](https://img.shields.io/badge/infinity-Mystic-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+[![blog](https://img.shields.io/badge/Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/c9RCnOV418E?si=kNWog_fSi8wCWX3A)
 
 <a href="https://dashboard.infinitywa.xyz"><img src="https://qu.ax/TPhh.jpg" height="125px"></a>
